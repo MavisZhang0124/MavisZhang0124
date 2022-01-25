@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MavisZhang0124
-- 👀 I’m interested in Artiticial Intelligence, Data Science
+- 👀 I’m interested in Artiticial Intelligence and Data Science
 - 🌱 I’m currently learning Natural Language Processing
 - 💞️ I’m looking to collaborate on any projects related on AI
 - 📫 How to reach me please contact maviszhang0124@gmail.com
